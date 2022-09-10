@@ -17,9 +17,6 @@ console.log("Sanjana");
 //let interface = "audio";
 
 
-
-
-
 //***********************Functions******************** */
  // function is simply a piece of code that we can reuse over and over again in our code. its littlr bit like a variable, 
  //but for whole chunks of code.
