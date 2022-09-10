@@ -78,6 +78,7 @@ function calcAge(birthYear){
 //const age1 = calcAge(1999);
 console.log("----asas",age1);
 
+//
 //2.) ----------Function Expressions---------------------------
 
 //const age2 = calcAge2(1999)  //will throw an error as cant call a function before they are defined.//
